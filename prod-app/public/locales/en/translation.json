@@ -1,0 +1,90 @@
+{
+    "Header": {
+        "PM": "Product Manager",
+        "Login": "Log In",
+        "Register": "Register",
+        "Home": "Home",
+        "Search": "Search",
+        "Logout": "Log Out"
+    },
+    "setLanguange": "Select Language",
+    "Language": "Language",
+    "Login": {
+        "Login": "Log In",
+        "Username": "Username",
+        "Password": "Password"
+    },
+    "Register": {
+        "Register": "Register",
+        "signUp": "Sign Up",
+        "Username": "Username",
+        "Password": "Password",
+        "Email": "Email"
+    },
+    "BoQ": {
+        "Search": "Search",
+        "BoQ": "Bill of Quantity",
+        "ID":"ID",
+        "Name": "Name",
+        "Description": "Description",
+        "PCost": "Product Cost",
+        "Quantity": "Quantity",
+        "Actions":"Actions",
+        "TCost":"Total Cost",
+        "Total": "Total",
+        "View":"View",
+        "Update":"Update",
+        "Delete": "Delete",
+        "AddProd": "Add Product"
+
+    },
+    "AddUpProd":{
+        "UpgradeProd": "Upgrade Product",
+        "AddProd":"Add Product",
+        "Name": "Name",
+        "Description": "Description",
+        "Quantity": "Quantity",
+        "Waste%": "Waste Percentage",
+        "Labor%": "Labour Percentage",
+        "Equip":"Equipment Cost",
+        "Other%": "Other Percentages",
+        "Margin%":"Margin Percentage"
+
+    },
+
+    "Mat":{
+        "ProdMat":"Product Materials",
+        "ID":"ID",
+        "Name": "Name",
+        "Description": "Description",
+        "Amt": "Amount",
+        "Quantity": "Quantity",
+        "Actions":"Actions",
+        "Rate":"Rate",
+        "TMI": "Total Material Items",
+        "Waste%": "Waste Percentage",
+        "Labor%": "Labour Percentage",
+        "Equip":"Equipment Cost",
+        "Other%": "Other Percentages",
+        "Margin%":"Margin Percentage",
+        "WCost":"Waste Amount",
+        "LCost":"Labour Cost",
+        "OCost":"Other Cost",
+        "MAmt":"Margin Amount",
+        "subTotal": "Sub Total",
+        "Total": "Total",
+        "Update":"Update",
+        "Delete": "Delete",
+        "AddMat": "Add Materials",
+        "Back": "Back"
+
+    },
+
+    "AddUpMat":{
+        "UpdateMat": "Update Material",
+        "AddMat":"Add Material",
+        "Description": "Description",
+        "Quantity": "Quantity",
+        "Rate":"Rate"
+    }
+}
